@@ -1,2 +1,5 @@
-# APKfiles
-ReOSys is composed of two versions. Generation #1 of the system is a device-based system. Generation #2 of the system is a software-based application
+ReOSys- Rescue operations in emergency disasters: Moving from wearable device to software-based system    
+
+ReOSys is composed of two versions. Generation #1 of the system is a device-based system. Generation #2 of the system is a software-based application.
+Version 1.0 of the system is a device-based system composed of two major components a wearable device and a UI application that can be deployed on smartphones. The wearable device is composed of the following components such as control unit, resistors, capacitors, temperature sensor, battery, 3D printed case, micro switch, a buzzer, Bluetooth module and a led. In addition to UI application hosted on mobile device.
+Version 2.0 of the system is a software-based application composed of two main components. A component that includes receiver application and a component that includes a sender application. Both components consist of a UI, a map coordinate tracker. The main function of the system includes the following the tracking of the location of both the sender and the receiver. The map visualization for both sender and receiver location which includes longitude, latitudes, and altitude coordinates. The shaking of victim’s mobile device to send notification alert that they are alive. 
